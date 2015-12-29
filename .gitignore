@@ -1,0 +1,10 @@
+# Gradlde
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Generated keys
+*.key
